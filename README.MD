@@ -1,3 +1,3 @@
 #Git-Learning OP
 
--Gaurav Kumain says that this is Amazing
+-Gaurav Kumain says this is Amazing
